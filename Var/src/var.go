@@ -4,5 +4,5 @@ import "fmt"
 
 func main() {
 	var i int = 31
-	fmt.Println(i)
+	fmt.Printf("%v, %T\n", i, i)
 }

@@ -2,6 +2,7 @@
 
 - Learn the basics of Go
     - [x]  Hello World
+    - [x]  Var
     - [ ]  Loops
     - [ ]  functions
     - [ ]  data structures
